@@ -39,6 +39,9 @@ body {
     align-items: center;
     text-align: center;
 }
+.destination:hover h2 {
+    transform: rotate(0deg);
+}
 
 h2 {
     margin: 0;
